@@ -1,4 +1,4 @@
-# python_codegenerator
+# python_code_generator
 Generate automatically Python code from existing source.
 
 General idea is we don't like writing too much code, create too much classes.
